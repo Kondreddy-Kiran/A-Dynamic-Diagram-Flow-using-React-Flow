@@ -448,10 +448,10 @@ const Content = () => {
                   <a
                     target="_blank"
                     rel="noreferrer"
-                    href="https://www.linkedin.com/in/prajwalgaikwad/"
+                    href="https://www.linkedin.com/in/kirankondreddy/"
                     className="cursor-pointer hover:underline hover:text-blue-500"
                   >
-                    Prajwal Gaikwad.
+                   Kondreddy Kiran.
                   </a>
                 </h4>
               </div>
